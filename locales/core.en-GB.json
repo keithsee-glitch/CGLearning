@@ -1,0 +1,49 @@
+{
+  "languages": {
+    "en-GB": "English",
+    "zh-SG": "Chinese"
+  },
+  "recommendation-menu": {
+    "button": "Menu",
+    "title": "Your progress",
+    "description": "Your recommended modules have <span style=\"color:#8A8600\">green icons</span> and the optional modules have <span style=\"color:#C1B088\">beige icons</span>. Click on the module title to go directly to it."
+  },
+  "select-language": "Select language",
+  "start-btn": "Explore",
+  "resume-btn": "Resume",
+  "next-btn": "Next",
+  "back-btn": "Back",
+  "reset-btn": "Reset",
+  "reset-dialog": {
+    "title": "Do you really want to reset?",
+    "message": "This will reset your learning data, and you'll have to start again from the beginning.",
+    "confirm-btn": "Reset",
+    "cancel-btn": "Cancel"
+  },
+  "skip-btn": "Skip",
+  "error-fallback": {
+    "title": "Something went wrong!",
+    "retry": "Try again"
+  },
+  "achievement-menu": {
+    "title": "My achievements",
+    "back": "Back"
+  },
+  "library-item-menu": {
+    "title": "Collected items",
+    "empty": "No items yet"
+  },
+  "content-navi": "Content layer navigation",
+  "aria": {
+    "app-sequence-action-bar-label": "Secondary action bar",
+    "primary-ui-top-action-bar-label": "Primary action bar",
+    "primary-ui-bottom-action-bar-label": "Secondary action bar",
+    "navigate-back-button-label": "Navigate back",
+    "next-button-label": "Next",
+    "back-button-label": "Back",
+    "menu-buttongroup-label": "Menus",
+    "achievement-menu-button-label": "Open achievements menu",
+    "bookmark-menu-button-label": "Open library menu",
+    "mute-button-label": "Mute audio"
+  }
+}

@@ -1,0 +1,23 @@
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/*!
+ * resource-loader - v3.0.1
+ * https://github.com/pixijs/pixi-sound
+ * Compiled Tue, 02 Jul 2019 14:06:18 UTC
+ *
+ * resource-loader is licensed under the MIT license.
+ * http://www.opensource.org/licenses/mit-license
+ */
+
+/** @license React v0.20.2
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
